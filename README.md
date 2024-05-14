@@ -1,6 +1,6 @@
 to make disk_requests.txt:
 
-python generate_requests.py
+python create_requests.py
 
 to run disk_scheduling:
 
