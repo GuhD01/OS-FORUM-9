@@ -3,6 +3,7 @@ to make disk_requests.txt:
 python generate_requests.py
 
 to run disk_scheduling:
+
 python disk_scheduling.py {initial position} disk_requests.txt {total number of cylinders}
 
 For example:
